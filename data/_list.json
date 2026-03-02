@@ -1,5 +1,56 @@
 [
-    "SampleLevel1",
-    "SAMPLELEVEL2",
-    "Sample_Level_3"
+    "{
+    "id": 44062068,
+    "name": "Future Funk",
+    "author": "Johnathan GD",
+    "creators": ["JohnathanGD"],
+    "verifier": "Mbed",
+    "verification": "https://youtu.be/yOEHYVoK4AI?si=qE3oWWwqGto8H-Re",
+    "percentToQualify": 94,
+    "password": "701013",
+    "records": [
+        {
+            "user": "avcPingu",
+            "link": "https://youtu.be/Pwr4HdrFhCo",
+            "percent": 100,
+            "hz": "60, used CBS & COS", 
+        }
+    ]
+}",
+    "{
+    "id": 4284013,
+    "name": "Nine Circles",
+    "author": "Zobros",
+    "creators": ["Zobros"],
+    "verifier": "Zobros",
+    "verification": "https://youtu.be/4WCgpSYz-ug?si=1cE7Qszhblf7DLQ_",
+    "percentToQualify": 93,
+    "password": "121214",
+    "records": [
+        {
+            "user": "avcPingu",
+            "link": "https://youtu.be/ZutayfudTmI",
+            "percent": 100,
+            "hz": 60, 
+        }
+    ]
+}",
+    "{
+    "id": 4284013,
+    "name": "Bicycle",
+    "author": "Back",
+    "creators": ["Back"],
+    "verifier": "Back",
+    "verification": "https://youtu.be/Aq5WXmQQooo?si=n-2z0-_RrJP3u4A9",
+    "percentToQualify": 97,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "avcPingu",
+            "link": "https://youtu.be/V2PCF3CZt-4",
+            "percent": 100,
+            "hz": 60, 
+        }
+    ]
+}"
 ]
